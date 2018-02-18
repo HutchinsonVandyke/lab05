@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static long hexConverter (String hexNumber)
+    public static long hexConverter (String hexNumber) // hexadecimal number converter
 
     {
         int charCounter = hexNumber.length()-1;
